@@ -1,0 +1,2 @@
+# NVIDIA_jetson_embeded_AI
+NVIDIA jetson平台下的嵌入式AI相关资料与学习
