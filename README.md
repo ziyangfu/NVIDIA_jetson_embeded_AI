@@ -93,6 +93,7 @@ DRIVE平台软件堆栈
 [Jetson - eLinux.org](https://elinux.org/Jetson)【Jetson系列资料，对找相机驱动有帮助】
 
 [Jetson AGX Xavier - eLinux.org](https://elinux.org/Jetson_AGX_Xavier)【上一代Xavier说明】
+[jetson AI 实验室，有很多项目](https://www.jetson-ai-lab.com/index.html)
 
 
 ### 课程
